@@ -1,0 +1,20 @@
+{
+    "Tecnologias": [
+        {
+            "id": 1,
+            "titulo": "HTML5"
+        },
+        {
+            "id": 2,
+            "titulo": "CSS3"
+        },
+        {
+            "id": 3,
+            "titulo": "JS"
+        },
+        {
+            "id": 4,
+            "titulo": "BootStrap"
+        }
+    ]
+}
